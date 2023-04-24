@@ -27,7 +27,9 @@ const Navbar = () => {
           >
             <img src={ logo } alt='logo' className='w-9 h-9 object-contain' />
             {/* import new logo in index.html within link href tag */}
+            <p className='text-white text-[18px] font-bold cursor-pointer'>David <span className='sm:block hidden'>| Portfolio</span></p>
           </Link>
+          <p className='text-red-500'>jibberjabber</p>
         </div>
       </nav>
     </>
