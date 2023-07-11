@@ -57,6 +57,6 @@ const Experience = () => {
   )
 }
 
-// 1:34:01
+
 
 export default SectionWrapper(Experience, 'work')
